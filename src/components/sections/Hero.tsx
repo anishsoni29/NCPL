@@ -35,10 +35,20 @@ export default function Hero() {
                         </h1>
 
                         <p className="mt-6 text-lg text-gray-600 leading-relaxed">
-                            RoadBaze is a premier civil road construction company specializing in highways,
+                            NCPL is a premier civil road construction company specializing in highways,
                             expressways, bridges, and urban infrastructure. We deliver world-class projects
                             that stand the test of time.
                         </p>
+
+                        {/* Motto Banner */}
+                        <div className="mt-8 p-6 bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 rounded-r-xl">
+                            <p className="text-xl font-semibold text-gray-900 italic">
+                                "Building Tomorrow's Infrastructure, Today"
+                            </p>
+                            <p className="mt-2 text-sm text-gray-600">
+                                Connecting communities, driving progress, building the future.
+                            </p>
+                        </div>
 
                         <div className="mt-8 flex flex-col sm:flex-row gap-4">
                             <Button href="/projects" size="lg">

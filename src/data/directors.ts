@@ -11,7 +11,7 @@ export const directors: Director[] = [
         id: '1',
         name: 'Rajesh Kumar Sharma',
         designation: 'Chairman & Managing Director',
-        bio: 'With over 35 years of experience in civil engineering and infrastructure development, Mr. Sharma has led the company through numerous landmark projects across India. His visionary leadership has transformed RoadBaze into one of the most trusted names in highway construction.',
+        bio: 'With over 35 years of experience in civil engineering and infrastructure development, Mr. Sharma has led the company through numerous landmark projects across India. His visionary leadership has transformed NCPL into one of the most trusted names in highway construction.',
         image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=500&fit=crop&crop=face',
     },
     {

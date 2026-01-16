@@ -10,8 +10,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RoadBaze - Civil Road Construction Company",
-  description: "RoadBaze is a premier civil road construction company specializing in highways, expressways, bridges, and urban infrastructure across India.",
+  title: "NCPL - Civil Road Construction Company",
+  description: "NCPL is a premier civil road construction company specializing in highways, expressways, bridges, and urban infrastructure across India.",
   keywords: ["road construction", "highway construction", "infrastructure", "civil engineering", "India"],
 };
 

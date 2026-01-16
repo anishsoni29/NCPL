@@ -38,8 +38,8 @@ export default function Header() {
                                 </svg>
                             </div>
                             <div>
-                                <span className="text-xl font-bold text-gray-900">RoadBaze</span>
-                                <span className="hidden sm:block text-xs text-gray-500">Infrastructure Excellence</span>
+                                <span className="text-xl font-bold text-gray-900">NCPL</span>
+                                <span className="hidden sm:block text-xs text-gray-500">Building Tomorrow's Infrastructure</span>
                             </div>
                         </Link>
                     </div>

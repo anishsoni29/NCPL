@@ -5,7 +5,7 @@ const milestones = [
     {
         year: '1999',
         title: 'Company Founded',
-        description: 'RoadBaze was established with a vision to transform India\'s road infrastructure.',
+        description: 'NCPL was established with a vision to transform India\'s road infrastructure.',
     },
     {
         year: '2005',
