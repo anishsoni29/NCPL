@@ -77,7 +77,7 @@ export default function Hero() {
                     </div>
 
                     {/* Hero Image */}
-                    <div className="relative hidden lg:block">
+                    <div className="relative mt-10 lg:mt-0">
                         <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
                             <Image
                                 src="/images/highway-construction.png"
@@ -85,7 +85,7 @@ export default function Hero() {
                                 fill
                                 className="object-cover"
                                 priority
-                                sizes="(max-width: 1200px) 50vw, 600px"
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
                             />
                         </div>
 

@@ -22,7 +22,7 @@ export default function Header() {
                 <div className="flex h-20 items-center justify-between">
                     {/* Logo */}
                     <div className="flex items-center">
-                        <Link href="/" className="flex items-center">
+                        <Link href="/" className="flex items-center gap-3">
                             <div className="h-14 w-auto relative">
                                 <Image
                                     src="/ncpl-logo.png"
@@ -33,6 +33,10 @@ export default function Header() {
                                     priority
                                     unoptimized
                                 />
+                            </div>
+                            <div>
+                                <span className="text-xl font-bold text-gray-900">NCPL</span>
+                                <span className="hidden sm:block text-xs text-gray-500">Building Tomorrow's Infrastructure</span>
                             </div>
                         </Link>
                     </div>
