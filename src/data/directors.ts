@@ -9,9 +9,9 @@ export interface Director {
 export const directors: Director[] = [
     {
         id: '1',
-        name: 'Rajesh Kumar Sharma',
-        designation: 'Chairman & Managing Director',
-        bio: 'With over 35 years of experience in civil engineering and infrastructure development, Mr. Sharma has led the company through numerous landmark projects across India. His visionary leadership has transformed RoadBaze into one of the most trusted names in highway construction.',
+        name: 'Sh. Abhinay',
+        designation: 'Director',
+        bio: 'Sh. Abhinay is the Director of Nandpur Constructions Private Limited (NCPL), leading the company with dedication and expertise in civil road construction. Under his leadership, NCPL has successfully delivered numerous infrastructure projects across Bihar and neighboring regions, earning recognition for quality and timely completion.',
         image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=500&fit=crop&crop=face',
     },
     {
